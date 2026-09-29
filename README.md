@@ -1,4 +1,4 @@
-# Grading Console Prototype
+# Grading Console
 
 A browser-based prototype for reviewing student marks, configuring grade bands, and exporting course grades. **This is not an official BITS Pilani Digital grading tool and must not be used for actual academic grading.**
 
