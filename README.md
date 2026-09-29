@@ -41,7 +41,7 @@ Open `BITS_Digital_CodeForge_Challenge.html` in a modern browser. The app uses S
 ## 🌐 Deployment
 
 - **GitHub Repository: https://github.com/2026em1100449-a11y/BITS_DIGITAL_CODEFORGE_Challenge.git
-- **Live Application URL: https://2026em1100449-a11y.github.io/BITS_DIGITAL_CODEFORGE_Challenge/
+- **Live Application URL: https://2026em1100449-a11y.github.io/BITS_DIGITAL_CODEFORGE_Challenge/BITS_Digital_CodeForge_Challenge.html
 
 
 ## 📋 Summary
