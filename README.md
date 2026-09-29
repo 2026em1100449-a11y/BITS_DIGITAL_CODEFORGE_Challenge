@@ -40,7 +40,7 @@ Open `BITS_Digital_CodeForge_Challenge.html` in a modern browser. The app uses S
 
 ## 🌐 Deployment
 
-- **GitHub Repository:** Not published yet.
+- **GitHub Repository:https://github.com/2026em1100449-a11y/BITS_DIGITAL_CODEFORGE_Challenge.git
 - **Live Application URL:** Not deployed yet.
 
 The app is a static HTML page and can be hosted on GitHub Pages or another static hosting service. Publishing still requires an authenticated GitHub or hosting account.
