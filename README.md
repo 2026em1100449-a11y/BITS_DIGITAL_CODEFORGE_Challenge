@@ -49,4 +49,3 @@ Open `BITS_Digital_CodeForge_Challenge.html` in a modern browser. The app uses S
 - Fixed and documented eight reproducible issues.
 - Added workbook validation, clearer analytics, safer grading/export, accessibility improvements, and a responsive layout.
 - Tested the import-to-export workflow with generated `.xlsx` workbooks, including invalid data and empty-state checks.
-- Public deployment remains outstanding; no repository or live URL has been created.
